@@ -1,0 +1,7 @@
+{
+  "app": {
+    "i18n_text": "En ce développement, toutes les autres langues fonctionnent sous un sous-domaine",
+    "change_locale": "Changer de langue",
+    "back_to_home": "Retour à la page d'accueil"
+  }
+}
